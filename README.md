@@ -1,4 +1,4 @@
-# simplicity.cc-quake-paste
+# simplicity.cc-quakehook-paste
 This is a paste of my newer cheat, quakehook
 This is a pretty bad cheat, the chams are broken, aimbot is not that good.
 Hope you Enjoy.
