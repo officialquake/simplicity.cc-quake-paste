@@ -8,6 +8,5 @@ HOW TO BUILD AND INJECT
 XCODE->OPEN A NEW WORKSPACE->CMD B->"PRODUCTS"-> SHOW ENCLOSING FOLDER.
 GET AN INJECTOR, CD (DRAG FOLDER), SUDO ./INJECTOR CSGO_OSX64 SIMPLICITY.CC.DYLIB
 
-Anyone want a reliable paid invite only cheat? -> quakehook. Search it.
-
+Regards. quake
 
